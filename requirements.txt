@@ -19,3 +19,4 @@ ninja
 packaging
 optree>=0.13.0
 cmake
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
